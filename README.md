@@ -40,7 +40,7 @@ My name is Tran Ngoc Phuoc Hoang, also known as phkane73, a passionate website d
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,tailwind,mysql,postgresql,spring,firebase,react,vite,nextjs,vercel,linux,redis,kafka" />
+    <img src="https://skillicons.dev/icons?i=git,docker,tailwind,mysql,postgresql,spring,react,vite,nextjs,vercel,linux,redis,kafka,nestjs,redux" />
   </a>
 </p>
 
