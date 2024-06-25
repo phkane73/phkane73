@@ -25,7 +25,7 @@ My name is Tran Ngoc Phuoc Hoang, also known as phkane73, a passionate website d
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=phkane73" height="150" alt="languages graph"  />
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs?username=phkane73&show_icons=true&theme=tokyonight&locale=en&layout=compact" height="150" alt="phkane73" />
 </div>
 
 ## Languages
